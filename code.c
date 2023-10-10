@@ -1,4 +1,5 @@
-//This code is appears like LINE FOLLOWING ROBOT, but we used it for following the SIDE WALLS. The walls can be created by the any waste cardboard. 
+/*This code is appears like LINE FOLLOWING ROBOT, but we used it for following the SIDE WALLS. The walls can be created by the any waste cardboard box.
+The hight of the walls should be greater than the two sensors and we mounted sensor on either side of the robot car chassis.*/
 
 void setup() {           // final code verified done
   // put your setup code here, to run once:
